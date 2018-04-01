@@ -66,4 +66,9 @@ class PrivateKeyStorage
     {
         return new PrivateKeyEntry();
     }
+
+    public function testMethod(PrivateKeyExporter $name)
+    {
+        return new PrivateKeyEntry();
+    }
 }
